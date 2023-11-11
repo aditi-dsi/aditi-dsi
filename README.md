@@ -1,6 +1,10 @@
 # Turning ☕ to </> 
-
-![Top Languages used](https://github-readme-stats.vercel.app/api/top-langs/?username=aditi-dsi&size_weight=0.5&count_weight=0.5&theme=transparent)
-
-
+## Currently skilled in:
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=aws,azure,bash,bootstrap,c,css,express,git,github,html,ai,js,linux,mongodb,mysql,nodejs,postman,powershell,pug,py,react,vscode" />
+  </a>
+</p>
+<br/>
+Learning something new every day..✨
 
